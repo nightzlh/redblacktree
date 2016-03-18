@@ -1,0 +1,6 @@
+C:\Users\fangxiang\documents\visual studio 2013\Projects\RedBlackTree\RedBlackTree\bin\Debug\RedBlackTree.exe.config
+C:\Users\fangxiang\documents\visual studio 2013\Projects\RedBlackTree\RedBlackTree\bin\Debug\RedBlackTree.exe
+C:\Users\fangxiang\documents\visual studio 2013\Projects\RedBlackTree\RedBlackTree\bin\Debug\RedBlackTree.pdb
+C:\Users\fangxiang\documents\visual studio 2013\Projects\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.exe
+C:\Users\fangxiang\documents\visual studio 2013\Projects\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.pdb
+C:\Users\fangxiang\documents\visual studio 2013\Projects\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.csprojResolveAssemblyReference.cache
